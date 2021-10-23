@@ -17,7 +17,7 @@ public class EquationHandlerTest {
     public void mainTest(){
         String[] input = new String[4];
         input[0] = "-n";
-        input[1] = "10000";
+        input[1] = "10";
         input[2] = "-r";
         input[3] = "20";
         EquationHandler.main(input);
